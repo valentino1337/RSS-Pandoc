@@ -1,0 +1,11 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Your RSS</title>
+<link>https://example.org</link>
+<description>Your personal website</description>
+<generator>https://gitlab.com/valentino1337/rss-pandoc</generator>
+<language>en-us</language>
+<lastBuildDate>Mon, 31 Oct 2022 12:00:00 +0100</lastBuildDate>
+
+</channel>
+</rss>
